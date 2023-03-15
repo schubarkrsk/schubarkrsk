@@ -1,9 +1,15 @@
 Start:
+
   MOV     AX,    9
+  
   MOV     DX,    OFFSET Message
+  
   INT     21h
+  
   RET
+  
 Message   DB     "I ❤️ IE"
+
 End Start
 
 - 👋 Hi, I’m @schubarkrsk

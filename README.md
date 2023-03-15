@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @schubarkrsk
 - 👀 I’m interested in python3 and 1C Enterprise 8
-- 🌱 I’m currently learning line programming
+- 🌱 I’m currently work on web application for school
 - 📫 How to reach me stas-chubar@yandex.ru
 
 <!---

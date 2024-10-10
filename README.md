@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @schubarkrsk
-- 👀 I’m interested in python3 and 1C Enterprise 8
-- 🌱 I’m currently work on new programing language
-- 📫 How to reach me stas-chubar@yandex.ru
-- 💗 Married with best wife in the world :3
+- 👀 1C Enterprise 8 support emginger
+- 🌱 I’m currently work on fixin bugs in our 1C systems
 
 <!---
 schubarkrsk/schubarkrsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
